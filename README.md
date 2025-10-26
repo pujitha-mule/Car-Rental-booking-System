@@ -1,4 +1,4 @@
-# Car-Rental-System
+# Car_Rental_System
 Book cars from your home.
 ![Screenshot (61)](https://user-images.githubusercontent.com/98267696/210244064-11b28a1d-9c4e-447d-a962-ca8fcc1f686c.png)
 ![Screenshot (62)](https://user-images.githubusercontent.com/98267696/210244072-7176e82f-cae8-4897-848a-4ca2640a6b56.png)
